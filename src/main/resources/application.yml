@@ -1,0 +1,3 @@
+server:
+  context-path: /backtest
+  port: 8080
